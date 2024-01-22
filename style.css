@@ -22,7 +22,9 @@
     background-image: url(./public/Animacion2D.png);
 }
 
-
+.btn{
+    width:200px;
+}
 
 .Fondo {
     height: 85vh;
