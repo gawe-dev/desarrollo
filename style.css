@@ -34,7 +34,7 @@
 }
 
 .Fondo > * {
-    backdrop-filter: blur(3px) brightness(0.3);
+    backdrop-filter: blur(3px) brightness(0.4);
 }
 
 .shadow-light {
