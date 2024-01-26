@@ -3,7 +3,7 @@
 }
 
 .GameDesign {
-    background-image: url(./public/GameDesign.png);
+    background-image: url(./public/GameDesign.gif);
 }
 
 .Programacion1 {
@@ -11,15 +11,15 @@
 }
 
 .LowPoly {
-    background-image: url(./public/LowPoly.png);
+    background-image: url(./public/LowPoly.gif);
 }
 
 .InglesTecnico {
-    background-image: url(./public/InglesTecnico.png);
+    background-image: url(./public/InglesTecnico.gif);
 }
 
 .Animacion2D {
-    background-image: url(./public/Animacion2D.png);
+    background-image: url(./public/Animacion2D.gif);
 }
 
 .btn{
